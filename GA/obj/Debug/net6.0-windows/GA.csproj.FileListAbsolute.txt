@@ -1,0 +1,17 @@
+C:\Users\medot\source\repos\GA\bin\Debug\net6.0-windows\GA.exe
+C:\Users\medot\source\repos\GA\bin\Debug\net6.0-windows\GA.deps.json
+C:\Users\medot\source\repos\GA\bin\Debug\net6.0-windows\GA.runtimeconfig.json
+C:\Users\medot\source\repos\GA\bin\Debug\net6.0-windows\GA.dll
+C:\Users\medot\source\repos\GA\bin\Debug\net6.0-windows\GA.pdb
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.csproj.AssemblyReference.cache
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.Form1.resources
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.csproj.GenerateResource.cache
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.AssemblyInfoInputs.cache
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.AssemblyInfo.cs
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.csproj.CoreCompileInputs.cache
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.dll
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\refint\GA.dll
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.pdb
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\GA.genruntimeconfig.cache
+C:\Users\medot\source\repos\GA\obj\Debug\net6.0-windows\ref\GA.dll
